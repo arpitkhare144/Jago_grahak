@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="JAGOGRAHAK_ARPIT_KHARE">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/JAGOGRAHAK_ARPIT_KHARE/src"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/JAGOGRAHAK_ARPIT_KHARE/WebContent/WEB-INF/jspViews"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/JAGOGRAHAK_ARPIT_KHARE/WebContent"/>
+                        
+        
+        <property name="context-root" value="JAGOGRAHAK_ARPIT_KHARE"/>
+                        
+        
+        <property name="java-output-path" value="/JAGOGRAHAK_ARPIT_KHARE/JAGOGRAHAK_ARPIT_KHARE/build/classes"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>
